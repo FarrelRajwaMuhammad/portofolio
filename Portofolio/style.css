@@ -1,0 +1,19 @@
+.jumbotron{
+    padding: 2rem 1rem;
+
+    /* img {
+        max-width: 100%;
+        height: auto;
+    }
+
+    @media (min-width: 960px) {
+        .jumbotron {
+            grid-template-columns: repeat(2, 1fr);
+        }
+    } */
+}
+
+.logo {
+    max-width: 150px;
+    height: auto;
+}
